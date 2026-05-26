@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfonnect",
+        "uuid": 991186,
+        "checksum": "6tw12n"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
